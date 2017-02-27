@@ -1,24 +1,9 @@
-# README
+This is the repo for the alpha-blog application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ruby 2.4.0p0
 
-Things you may want to cover:
+rails 5.0.1
 
-* Ruby version
+gem 2.6.8
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+bundler 1.14.4

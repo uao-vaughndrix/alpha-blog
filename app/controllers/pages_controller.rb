@@ -8,4 +8,9 @@ class PagesController < ApplicationController
 	def about
 		
 	end
+
+	#contact action
+	def contact
+		
+	end
 end
